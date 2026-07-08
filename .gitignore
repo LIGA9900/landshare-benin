@@ -1,0 +1,14 @@
+backend/.env
+backend/vendor/
+backend/storage/logs/
+backend/storage/app/public/
+
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+
+blockchain/.env
+blockchain/node_modules/
+
+.DS_Store
+Thumbs.db
